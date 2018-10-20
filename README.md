@@ -9,3 +9,7 @@ Once you've enviroment set up, you should be able to run these JAVA code like th
 javac program.java  //program.java is the name of JAVA file to compile
 java program        //program is the complied JAVA class
 ```
+Or you can also use the IDE of your choice to run these JAVA code. 
+<br/>
+<br />
+* Note: Please read the comments on each of these JAVA file to understand more about it.
