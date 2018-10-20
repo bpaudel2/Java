@@ -6,7 +6,7 @@ For IDE, you can use IDE of your choice like IntelliJ, Eclipse and Netbeans. You
 # Running code
 Once you've enviroment set up, you should be able to run these JAVA code like this from terminal/command line:
 ```
-javac program.java  //program.java is the name of JAVA file to compile
+javac program.java  //program.java is the name of JAVA file to compile which will create program.class file.
 java program        //program is the complied JAVA class
 ```
 Or you can also use the IDE of your choice to run these JAVA code. 
