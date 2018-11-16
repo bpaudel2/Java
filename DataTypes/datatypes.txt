@@ -1,0 +1,41 @@
+There are two data types:
+-Primitive Data types  
+-Reference/Object Data types
+There are eight primitive data types:
+byte:
+    Min:-128(-2^7)
+    Max:127(2^7-1)
+    Default:0
+    Exp: byte a = 100;
+short:
+    Min:-2^15
+    Max:2^15-1
+    Default:0
+    Exp: short a = 10000;
+int:
+    Min:-2^31
+    Max:2^31-1
+    Default:0
+    Exp: int a = 100000;
+long:
+    Min:-2^63
+    Max:2^63-1
+    Default:0L
+    Exp: long a = 100000L;
+float:
+    single precision 32 bit IEEE 754 floating point
+    Default: 0.0f
+    Exp: float f1 = 234.5f;
+double:
+    double precision 64-bit IEEE 754 floating point
+    Default: 0.0d
+    Exp: double d1 = 123.4;
+boolean:
+    one bit of information true or false
+    Default: false;
+    Exp: boolean one = true;
+char:
+    single 16-bit Unicode character
+    Min: '\u0000' or O
+    Max: '\uffff' or 65535
+    Exp: char letterC='C';
