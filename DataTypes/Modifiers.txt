@@ -1,0 +1,14 @@
+Here are two types of modifiers.
+* Java Access modifiers
+* Non Access modifiers
+Access Modifiers:
+    * Visisble to package, the default. No modifiers needed.
+    * Visible to the class only(private)
+    * Visible to the world(public)
+    * Visible to the package and all subclasses(protected)
+Non-Access modifiers:
+    * static modifiers for creating class methods and variables.
+    * final modifier for finalizing the implementations of classes, methods and variables
+    * abstract modifier for creating abstract class and methods
+    * synchronized and volatile modifiers which are used for threads
+    * and more..
